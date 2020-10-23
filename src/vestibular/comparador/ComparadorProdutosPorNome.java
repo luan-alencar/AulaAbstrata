@@ -1,4 +1,4 @@
-package loja.comparadores;
+package vestibular.comparador;
 
 import java.util.Comparator;
 

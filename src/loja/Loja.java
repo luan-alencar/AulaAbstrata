@@ -4,10 +4,10 @@ import java.util.Collections;
 import java.util.List;
 
 import loja.bancodedados.BancoDeDados;
-import loja.comparadores.ComparadorProdutosPorNome;
 import loja.comparadores.ComparadorProdutosPorPrecoAsc;
 import loja.comparadores.ComparadorProdutosPorPrecoDesc;
 import loja.entidades.Produto;
+import vestibular.comparador.ComparadorProdutosPorNome;
 
 public class Loja {
 	/**
